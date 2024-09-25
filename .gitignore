@@ -4,6 +4,7 @@
 # lab
 lab-*
 media/
+.idea
 
 # Object files
 *.o

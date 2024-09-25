@@ -1,0 +1,1 @@
+gcc -O1 -Wall -Werror lab3.c -o lab3  -lm -fopenmp
